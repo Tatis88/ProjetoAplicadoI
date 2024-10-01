@@ -15,3 +15,6 @@ O projeto é dividido em várias seções, cada uma focando em diferentes aspect
   - Exploração inicial do dataset.
 
 - **Análise Exploratória**
+  - Principais Insights
+ 
+- **Conclusão e Próximos Passos**
